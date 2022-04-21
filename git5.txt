@@ -1,3 +1,0 @@
-git 5 contents
-git 5 contents extended
-git 5 exec
